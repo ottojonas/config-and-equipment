@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-13T10:25:02.669Z
+modified: 2025-01-13T10:27:09.152Z
 title: null
 ---
 
@@ -11,7 +11,7 @@ title: null
 
 <h3>IDE's</h3>
 <h4><a href = "https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/configs/visual-studio-code">Visual Studio Code</a></h4>
-<img align = "center" src = "software-configs/work-windows-software-config/assets/vscode-windows-work.png" />
+<img align = "center" src = "assets/vscode-windows-work.png" />
 
 <h3>Terminal</h3>
 
