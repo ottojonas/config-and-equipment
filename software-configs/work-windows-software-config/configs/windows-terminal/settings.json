@@ -1,0 +1,223 @@
+{
+  "$help": "https://aka.ms/terminal-documentation",
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "actions": [
+    {
+      "command": {
+        "action": "copy",
+        "singleLine": false
+      },
+      "id": "User.copy.XXXXXX",
+      "keys": "ctrl+c"
+    },
+    {
+      "command": "paste",
+      "id": "User.paste",
+      "keys": "ctrl+v"
+    },
+    {
+      "command": {
+        "action": "splitPane",
+        "split": "auto",
+        "splitMode": "duplicate"
+      },
+      "id": "User.splitPane.XXXXXX",
+      "keys": "alt+shift+d"
+    },
+    {
+      "command": "find",
+      "id": "User.find",
+      "keys": "ctrl+shift+f"
+    }
+  ],
+  "copyFormatting": "none",
+  "copyOnSelect": false,
+  "defaultProfile": "{XXXXXX}",
+  "newTabMenu": [
+    {
+      "type": "remainingProfiles"
+    }
+  ],
+  "profiles": {
+    "defaults": {
+      "adjustIndistinguishableColors": "always",
+      "colorScheme": "BlulocoDark",
+      "experimental.retroTerminalEffect": false,
+      "font": {
+        "face": "CaskaydiaMono Nerd Font Mono",
+        "size": 11,
+        "weight": "normal"
+      },
+      "icon": "\ue756",
+      "opacity": 60,
+      "padding": "15",
+      "useAcrylic": true
+    },
+    "list": [
+      {
+        "guid": "{XXXXXX}",
+        "hidden": false,
+        "name": "Azure Cloud Shell",
+        "source": "Windows.Terminal.Azure"
+      },
+      {
+        "guid": "{XXXXXX}",
+        "hidden": false,
+        "name": "Arch",
+        "source": "Windows.Terminal.Wsl"
+      },
+      {
+        "guid": "{XXXXXX}",
+        "hidden": false,
+        "name": "kali-linux",
+        "source": "Windows.Terminal.Wsl"
+      },
+      {
+        "guid": "{XXXXXX}",
+        "hidden": true,
+        "name": "Ubuntu-24.04",
+        "source": "Windows.Terminal.Wsl"
+      },
+      {
+        "guid": "{XXXXXX}",
+        "hidden": false,
+        "name": "Ubuntu 24.04.1 LTS",
+        "source": "CanonicalGroupLimited.Ubuntu24.04LTS_79rhkp1fndgsc"
+      },
+      {
+        "guid": "{XXXXXX}",
+        "hidden": false,
+        "name": "PowerShell",
+        "source": "Windows.Terminal.PowershellCore"
+      },
+      {
+        "guid": "{XXXXXX}",
+        "hidden": false,
+        "name": "Windows PowerShell"
+      },
+      {
+        "guid": "{XXXXXX}",
+        "hidden": false,
+        "name": "Command Prompt"
+      }
+    ]
+  },
+  "schemes": [
+    {
+      "background": "#282C34",
+      "black": "#41444D",
+      "blue": "#3476FF",
+      "brightBlack": "#8F9AAE",
+      "brightBlue": "#10B1FE",
+      "brightCyan": "#5FB9BC",
+      "brightGreen": "#3FC56B",
+      "brightPurple": "#FF78F8",
+      "brightRed": "#FF6480",
+      "brightWhite": "#FFFFFF",
+      "brightYellow": "#F9C859",
+      "cursorColor": "#FFCC00",
+      "cyan": "#4483AA",
+      "foreground": "#B9C0CB",
+      "green": "#25A45C",
+      "name": "BlulocoDark",
+      "purple": "#7A82DA",
+      "red": "#FC2F52",
+      "selectionBackground": "#B9C0CA",
+      "white": "#CDD4E0",
+      "yellow": "#FF936A"
+    },
+    {
+      "background": "#1E1E2E",
+      "black": "#45475A",
+      "blue": "#89B4FA",
+      "brightBlack": "#585B70",
+      "brightBlue": "#89B4FA",
+      "brightCyan": "#94E2D5",
+      "brightGreen": "#A6E3A1",
+      "brightPurple": "#F5C2E7",
+      "brightRed": "#F38BA8",
+      "brightWhite": "#A6ADC8",
+      "brightYellow": "#F9E2AF",
+      "cursorColor": "#F5E0DC",
+      "cyan": "#94E2D5",
+      "foreground": "#CDD6F4",
+      "green": "#A6E3A1",
+      "name": "Catppuccin Mocha",
+      "purple": "#F5C2E7",
+      "red": "#F38BA8",
+      "selectionBackground": "#585B70",
+      "white": "#BAC2DE",
+      "yellow": "#F9E2AF"
+    },
+    {
+      "background": "#000000",
+      "black": "#0C0C0C",
+      "blue": "#0037DA",
+      "brightBlack": "#767676",
+      "brightBlue": "#3B78FF",
+      "brightCyan": "#61D6D6",
+      "brightGreen": "#16C60C",
+      "brightPurple": "#B4009E",
+      "brightRed": "#E74856",
+      "brightWhite": "#F2F2F2",
+      "brightYellow": "#F9F1A5",
+      "cursorColor": "#FFFFFF",
+      "cyan": "#3A96DD",
+      "foreground": "#FFFFFF",
+      "green": "#13A10E",
+      "name": "Color Scheme 13",
+      "purple": "#881798",
+      "red": "#C50F1F",
+      "selectionBackground": "#FFFFFF",
+      "white": "#CCCCCC",
+      "yellow": "#C19C00"
+    },
+    {
+      "background": "#18131E",
+      "black": "#000000",
+      "blue": "#6964AB",
+      "brightBlack": "#786D69",
+      "brightBlue": "#9892F1",
+      "brightCyan": "#EEEEEE",
+      "brightGreen": "#22E529",
+      "brightPurple": "#E90CDD",
+      "brightRed": "#F41D99",
+      "brightWhite": "#CBB6FF",
+      "brightYellow": "#F59574",
+      "cursorColor": "#FF65FD",
+      "cyan": "#939393",
+      "foreground": "#DD7BDC",
+      "green": "#41AF1A",
+      "name": "Sakura",
+      "purple": "#C71FBF",
+      "red": "#D52370",
+      "selectionBackground": "#C05CBF",
+      "white": "#998EAC",
+      "yellow": "#BC7053"
+    }
+  ],
+  "startOnUserLogin": true,
+  "themes": [
+    {
+      "name": "Catppuccin Mocha",
+      "tab": {
+        "background": "#1E1E2EFF",
+        "iconStyle": "default",
+        "showCloseButton": "always",
+        "unfocusedBackground": null
+      },
+      "tabRow": {
+        "background": "#181825FF",
+        "unfocusedBackground": "#11111BFF"
+      },
+      "window": {
+        "applicationTheme": "dark",
+        "experimental.rainbowFrame": false,
+        "frame": null,
+        "unfocusedFrame": null,
+        "useMica": false
+      }
+    }
+  ],
+  "useAcrylicInTabRow": true
+}

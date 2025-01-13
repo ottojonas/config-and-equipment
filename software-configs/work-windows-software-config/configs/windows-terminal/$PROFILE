@@ -1,0 +1,10 @@
+. $env:USERPROFILE\.config\powershell\user_profile.ps1
+
+# terminal icons 
+Import-Module -Name Terminal-Icons 
+
+# wakatime install 
+Install-Module -Name posh-wakatime -Scope CurrentUser
+
+# oh my posh settings 
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/1_shell.omp.json" | Invoke-Expression

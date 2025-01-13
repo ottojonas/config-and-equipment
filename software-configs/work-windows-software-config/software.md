@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-13T10:27:09.152Z
+modified: 2025-01-13T10:52:52.888Z
 title: null
 ---
 
@@ -14,5 +14,7 @@ title: null
 <img align = "center" src = "assets/vscode-windows-work.png" />
 
 <h3>Terminal</h3>
+<h4><a href ="https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/configs/windows-terminal">Windows Terminal</a></h4>
+<img align = "center" src = 'assets/windows-terminal-config.png' />
 
 <h3>CLI</h3>
