@@ -18,6 +18,14 @@
     <h3>Work</h3>
 </div>
 
+<h3>Browser(s)</h3>
+
+<h4><a href = "https://www.mozilla.org/en-GB/firefox/channel/desktop/#nightly">Firefox Nightly</a></h4>
+<img align = "center" src = "assets/firefox-nightly.png" />
+
+<h4><a href = "https://vivaldi.com/download/">Vivaldi</a></h4>
+<img align = "center" src = "assets/vivaldi.png" />
+
 <h3>IDE's</h3>
 <h4><a href = "https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/configs/visual-studio-code">Visual Studio Code</a></h4>
 <img align = "center" src = "assets/vscode-windows-work.png" />
@@ -63,24 +71,15 @@
 </div>
 
 <h3>Browser(s)</h3>
-<ul>
-<li><a href = "https://www.mozilla.org/en-GB/firefox/channel/desktop/#nightly">Firefox Nightly</a></li>
-<li><a href = "https://vivaldi.com/download/">Vivaldi</a></li>
-</ul>
+<h4><a href = "https://www.mozilla.org/en-GB/firefox/channel/desktop/#nightly">Firefox Nightly</a></h4>
+<h4><a href = "https://vivaldi.com/download/">Vivaldi</a></h4>
 
 <h3>IDE's</h3>
-<ul>
-<li><a href ="https://code.visualstudio.com/download">Visual Studio Code</a></li>
-<ul><li><a href = "">My Visual Studio Config</a></li></ul>
-<li><a href ="https://github.com/neovim/neovim/blob/master/INSTALL.md">NeoVim</a></li>
-<ul><li><a href = "https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/personal-linux-software-config/configs/nvim">My Neovim Config</a></li></ul>
-</ul>
+
+<h4><a href ="https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/personal-linux-software-config/configs/nvim">NeoVim</a></h4>
 
 <h3>Terminal</h3>
-<ul>
-<li><a href ="https://sw.kovidgoyal.net/kitty/binary/">Kitty</a></li>
-<ul><li><a href = "">My Kitty Config</a></li></ul>
-</ul>
+<h4><a href = "">Kitty</a></h4>
 
 <div align = "center">
     <h3>Work</h3>
