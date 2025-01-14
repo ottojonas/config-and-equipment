@@ -36,7 +36,10 @@
 
 <h3>Other</h3>
 <h4><a href = "https://betterdiscord.app/">Better Discord (Material Discord Theme)</a></h4>
-<img align = "center" src = 'assets/discord-windows-work.png'>
+<img align = "center" src = 'assets/discord-windows-work.png'/>
+
+<h4><a href = "https://spicetify.app/">Spotify(Spicetify Theme Hazy Astromations)</a></h4>
+<img align = "center" src ='assets/spotify.png'>
 
 <div align = "center">
     <h2>Linux</h2>
