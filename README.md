@@ -31,7 +31,7 @@
 <img align = "center" src = "assets/vscode-windows-work.png" />
 
 <h4>Frost Vim (Beta)</h4>
-<img align = "center" src = "assets/frost-nvim.png"/>
+<img align = "center" src = "assets/frost-nvim.png" />
 <h3>Terminal</h3>
 <h4><a href ="https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/configs/windows-terminal">Windows Terminal</a></h4>
 <img align = "center" src = 'assets/windows-terminal-config.png' />
