@@ -37,10 +37,10 @@
 <img align = "center" src = 'assets/windows-terminal-config.png' />
 
 <h3>Other</h3>
-<h4><a href = "https://betterdiscord.app/">Better Discord (Material Discord Theme)</a></h4>
+<h4><a href = "https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/configs/better-discord">Better Discord (Material Discord Theme)</a></h4>
 <img align = "center" src = 'assets/discord-windows-work.png'/>
 
-<h4><a href = "https://spicetify.app/">Spotify(Spicetify Theme Hazy Astromations)</a></h4>
+<h4><a href = "https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/configs/spicetify">Spotify(Spicetify Theme Hazy Astromations)</a></h4>
 <img align = "center" src ='assets/spotify.png'>
 
 <div align = "center">
