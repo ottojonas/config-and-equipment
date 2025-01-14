@@ -1,0 +1,14 @@
+{
+    "settings": {
+        "normalActivityIcons": true,
+        "richPresenceIcons": true,
+        "platformIcons": true,
+        "listeningIcons": true,
+        "watchingIcons": true
+    },
+    "currentVersionInfo": {
+        "version": "1.4.11",
+        "hasShownChangelog": true
+    },
+    "changelogVersion": "1.5.0"
+}
