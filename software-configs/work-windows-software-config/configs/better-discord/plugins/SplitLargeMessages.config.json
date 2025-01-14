@@ -1,0 +1,12 @@
+{
+	"all": {
+		"amounts": {
+			"splitCounter": 0,
+			"maxMessages": 0
+		},
+		"general": {
+			"byNewlines": false,
+			"leaveGaps": false
+		}
+	}
+}

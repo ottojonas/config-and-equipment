@@ -1,0 +1,28 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.8.8",
+			"BetterFriendList": "1.5.5",
+			"FriendNotifications": "2.0.4",
+			"GameActivityToggle": "1.2.8",
+			"SpellCheck": "1.6.9",
+			"SplitLargeMessages": "1.8.5",
+			"SpotifyControls": "1.4.1",
+			"WriteUpperCase": "1.4.2"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"checkForUpdates": false,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "8e5417059085246a8fc5bdcb2f40b7165fe226f1",
+			"0BDFDB.raw.css": "fde7e8b8df310932810caf46a52458defb7beea7"
+		}
+	}
+}
