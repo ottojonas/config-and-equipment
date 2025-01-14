@@ -20,7 +20,7 @@
 
 <h3>Browser(s)</h3>
 
-<h4><a href = "https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/firefox-nightly">Firefox Nightly</a></h4>
+<h4><a href = "https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/firefox-nightly/">Firefox Nightly</a></h4>
 <img align = "center" src = "assets/firefox-nightly.png" />
 
 <h4><a href = "https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/vivaldi">Vivaldi</a></h4>
