@@ -43,6 +43,9 @@
 <h4><a href = "https://github.com/ottojonas/config-and-equipment/tree/main/software-configs/work-windows-software-config/configs/spicetify">Spotify(Spicetify Theme Hazy Astromations)</a></h4>
 <img align = "center" src ='assets/spotify.png'>
 
+<h4><a href = "https://www.inkdrop.app/">Inkdrop</a></h4>
+<img align = "center" src = "assets/inkdrop.png">
+
 <div align = "center">
     <h2>Linux</h2>
 </div>
