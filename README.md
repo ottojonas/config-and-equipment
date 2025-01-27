@@ -43,6 +43,9 @@
 <h4><a href = "https://spicetify.app/">Spotify(Spicetify Theme Hazy Astromations)</a></h4>
 <img align = "center" src ='assets/spotify.png'>
 
+<h4><a href = "https://www.inkdrop.app/">Inkdrop</a></h4>
+<img align = "center" src = "assets/inkdrop.png">
+
 <div align = "center">
     <h2>Linux</h2>
 </div>
